@@ -1,0 +1,33 @@
+h1 {
+  background-color: rgb(206, 0, 0);
+  color: white;
+  font-size: 40px;
+  font-family: Verdana;
+  font-weight: bold;
+  padding: 30px;
+  border: 15px;
+}
+
+.header {
+  margin: 20px
+}
+
+#login {
+  color: white;
+  padding-left: 700px;
+  font-size: 25px;
+}
+
+.topnav {
+  background-color: rgb(80, 80, 80);
+  height: 50px;
+  padding: 10px;
+  padding-top: 30px;
+  text-align: right;
+}
+
+.navlink {
+  font-size: 30px;
+  color: white;
+  padding: 10px;
+}
